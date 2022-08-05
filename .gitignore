@@ -18,11 +18,17 @@ design
 node_modules
 package-lock.json
 style-guide.md
+README.md
+README-template.md
 /design
 /node_modules
 /package-lock.json
 /style-guide.md
+/README.md
+/README-template.md
 ./design
 ./node_modules
 ./package-lock.json
 ./style-guide.md
+./README.md
+./README-template.md
